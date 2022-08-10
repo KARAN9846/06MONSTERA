@@ -33,7 +33,7 @@ This project showed me how to turn text into buttons and add attributes like col
 ## Screenshot 
 
 
-[Live Link](https://darling-speculoos-68f005.netlify.app/)
+[Live Link](https://lighthearted-dusk-213d2a.netlify.app/)
 
 ![What's Trend In](./Capture.PNG)
 
